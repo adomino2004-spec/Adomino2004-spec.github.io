@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:(https://github.com/adomino2004-spec/myRepository)
+- Solution URL:(https://github.com/adomino2004-spec/adomino2004-spec.github.io)
 
 
 
