@@ -1,13 +1,14 @@
 body{
     background-color:hsl(212, 45%, 89%);
     font-family: outfit;
+    max-height: 100vh;
 }
 .container{
     height: 450px;
     width: 300px;
     background-color: hsl(0, 0%, 100%);
     margin: 0 auto;
-    margin-top: 110px;
+    margin-top: 160px;
     border-radius: 18px;
     padding-bottom: 5px;
     box-shadow: 0 0 25px 0 hsl(220, 15%, 80%);
